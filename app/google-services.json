@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "741211126522",
+    "project_id": "dreamday-63499",
+    "storage_bucket": "dreamday-63499.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741211126522:android:44169dcf18d36b6f5aa743",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741211126522-6jems3rahngvgqi2l7th2rfsrdql37h8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo9rZ7qgROOs0rJLh3v4rOh7JMXEeS19g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741211126522-6jems3rahngvgqi2l7th2rfsrdql37h8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
